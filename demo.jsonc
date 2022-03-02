@@ -1,0 +1,10 @@
+{
+	// One-line comment
+	"foo": "bar", // One-line comment at end of line
+	/*
+		Multiline comment
+	*/
+	"singleLinerInString": "//",
+	"multilinerInString": "/*",
+	"*/": "baz"
+}
