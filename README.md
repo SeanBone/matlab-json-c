@@ -1,5 +1,7 @@
 # JSON+C parsing for MATLAB
 
+[![View matlab-json-c on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://ch.mathworks.com/matlabcentral/fileexchange/107465-matlab-json-c)
+
 This package offers some simple functions to handle JSON+C (JSON with comments) in a MATLAB script.
 
  - `jsonc.removeJSONComments` removes JavaScript-style comments from the string (or char array) you give it as argument.
